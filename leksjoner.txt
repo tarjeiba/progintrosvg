@@ -1,5 +1,34 @@
-repl.it/@TarjeiBrland/progintosvg
+# repl.it/@TarjeiBrland/progintosvg
 
-# Leksjon 0:  repl.it
+##########################
+# Leksjon 2:             #
+# Filer og regning i Py  #
+##########################
+
+
+
+##########################
+# Leksjon 1: svg-filer   #
+##########################
+
+# Mål: Tegne en firkant med svart ramme og et slags rosa fyll
+# youtube: https://youtu.be/1P5woZJDW44
+# Mozilla SVG :: https://developer.mozilla.org/en-US/docs/Web/SVG
+# Excalidraw :: https://excalidraw.com
+# RGB til hex :: https://duckduckgo.com/?q=rgb+to+hex&ia=answer
+
+# Heksadesimale tall: Ethvert siffer går 0 (0) til f (15)
+# "Dekadesimale" tall (titallssystemet): Ethvert siffer går fra 0 til 9
+# Ved 24 biters fargeoppløsning:
+# 00000000 00000000 0000000
+# fire bits kan skrives som en hex-verdi
+#  00-ff    00-ff    00-ff
+
+# Vi kan da oppgi farger som #b5c433
+
+
+##########################
+# Leksjon 0:  repl.it    #
+##########################
+
 # youtube: https://youtu.be/X8WUAu8Gnbc
-
