@@ -1,21 +1,39 @@
-# repl.it/@TarjeiBrland/progintosvg
+# repl.it/@TarjeiBrland/progintrosvg
 
 ##########################
-# Leksjon 2:             #
-# Filer og regning i Py  #
+# Leksjon 3: Tilfeldige  #
+# farger som matcher     #
 ##########################
 
+# Mål: Lage fire firkanter med tilfeldige farger som matcher hverandre
+# Youtube:
 
+
+##########################
+# Leksjon 2: Filer og    #
+# regning i Python       #
+##########################
+
+# Mål: Lage svg-fila fra Leksjon 1 med et Python-program
+# Youtube: https://youtu.be/yjorJR58l38
+
+# Tekststrenger i Python kan angis på flere måter:
+tekststreng = 'en tekst "uten" linjeskift'
+tekststreng = "en tekst 'uten' linjeskift"
+tekststreng = '''en tekst 'med' eller "uten"
+linjeskift'''
+tekststreng = """en tekst "med" eller 'uten'
+linjeskift
 
 ##########################
 # Leksjon 1: svg-filer   #
 ##########################
 
 # Mål: Tegne en firkant med svart ramme og et slags rosa fyll
-# youtube: https://youtu.be/1P5woZJDW44
-# Mozilla SVG :: https://developer.mozilla.org/en-US/docs/Web/SVG
-# Excalidraw :: https://excalidraw.com
-# RGB til hex :: https://duckduckgo.com/?q=rgb+to+hex&ia=answer
+# Youtube: https://youtu.be/1P5woZJDW44
+# Mozilla SVG: https://developer.mozilla.org/en-US/docs/Web/SVG
+# Excalidraw: https://excalidraw.com
+# RGB til hex: https://duckduckgo.com/?q=rgb+to+hex&ia=answer
 
 # Heksadesimale tall: Ethvert siffer går 0 (0) til f (15)
 # "Dekadesimale" tall (titallssystemet): Ethvert siffer går fra 0 til 9
@@ -31,4 +49,4 @@
 # Leksjon 0:  repl.it    #
 ##########################
 
-# youtube: https://youtu.be/X8WUAu8Gnbc
+# Youtube: https://youtu.be/X8WUAu8Gnbc
