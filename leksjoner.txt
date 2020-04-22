@@ -6,8 +6,34 @@
 ##########################
 
 # Mål: Bruke colorsys til å regne oss mellom rgb og hsv
-# Youtube: 
+# Youtube: https://youtu.be/RRreIL_6KPI
 
+# For å hente ut verdier ved en spesifikk indeks
+# fra strenger eller (spoiler alert) lister
+# kan vi
+teksstreng = "hei, verden!"
+teksstreng[0] # dette gir 'h'
+teksstreng[-1] # dette gir '!'
+
+# Vi kan også hente understrenger eller underlister
+# ved å bruke såkalt 'slice-notasjon', da gir en
+# startverdi og en sluttverdi
+teksstreng[1:3]  # gir fra og med indeks 1,
+                 # til ikke med indeks 3
+
+# For å endre fra heksadesimale tall til tall i
+# titallssystemet kan vi bruke int-funksjonen og gi
+# en base
+r_titalls = int(r_hex_streng, base=16)                
+
+# Vi kan sette inn formateringsspesifikasjon i verdiene
+# som skal settes inn i f-strenger (f"{variabelnavn:formatspec} vanlig tekts")
+# hvor formatspec er gitt på en spesiell måte. Eksempel, vi vil gjøre heltallet
+# y om til et null-paddet (nuller foran om det trengs) heksadesimalt tall
+# som skal ta to plasser med f"{y:02x}"
+
+# Lenke til python docs:
+https://docs.python.org/2/library/string.html#format-specification-mini-language
 
 ##########################
 # Leksjon 3: Tilfeldige  #
