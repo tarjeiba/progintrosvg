@@ -1,13 +1,24 @@
 # repl.it/@TarjeiBrland/progintrosvg
 
 ##########################
+# Leksjon 4: Omregninger #
+# mellom fargesystemer   #
+##########################
+
+# Mål: Bruke colorsys til å regne oss mellom rgb og hsv
+# Youtube: 
+
+
+##########################
 # Leksjon 3: Tilfeldige  #
 # farger som matcher     #
 ##########################
 
 # Mål: Lage fire firkanter med tilfeldige farger som matcher hverandre
-# Youtube:
+# Youtube: https://youtu.be/OLThzCo5KU8
 
+# Vi kan importere kode fra "utsiden" ved å skrive for eksempel
+import colorsys
 
 ##########################
 # Leksjon 2: Filer og    #
